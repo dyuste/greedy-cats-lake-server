@@ -1,0 +1,4 @@
+OPTION("-d", "--db_database", db_database, "database name", "hidden")
+OPTION("-u", "--db_user", db_user, "database user name", "hidden")
+OPTION("-w", "--db_password", db_password, "database password name", "hidden")
+OPTION("-l", "--log_file", log_file, "log file", "")
